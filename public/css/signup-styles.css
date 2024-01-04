@@ -1,0 +1,32 @@
+
+/*  success page and failure page styles */
+body {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container {
+    background-color: rgb(185, 187, 172);
+    padding: 5%;
+
+  }
+  .container h1 {
+    font-size: 3rem;
+  }
+
+  .container p {
+    font-size: 1.5rem;
+  }
+
+  .container button {
+    margin-top: 5%;
+    padding: 8px 15px;
+    border-radius: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+  }
+
+  form {
+    margin: 0;
+    padding: 0%;
+  }
